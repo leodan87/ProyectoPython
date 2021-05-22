@@ -1,0 +1,8 @@
+3424;Cuaderno espiral;Cuadros 100 hojas;1.25
+4353;Lápiz;Mongol;0.45
+1232;Escuadras;Juego de escuadras;2.5
+3243;Borrador;Borrado blanco;0.3
+2345;Esfero BIC;Tinta azul, punta fina;0.35
+3453;Borrador de tinta;..;0.5
+1234;Esfero BIC;Tinta roja, punta fina;0.35
+0987;Resaltador;Fosforecente BIC;0.4
